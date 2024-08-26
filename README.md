@@ -1,1 +1,1 @@
-# Kalman-Filter
+Реализация Square-root Unscented Kalman Filter (SR-UKF) и Bootstrap Particle Filter(PF(boot)) для оценки вектора состояния непрерывно-дискретной стохастической динамической системы наблюдений (Химической реакции Van der Vusse, в которой присутствуют случайные и/или заранее заданные возмущения).
